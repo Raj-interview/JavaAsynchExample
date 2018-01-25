@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>rah.feign</groupId>
-    <artifactId>FeignClientExample</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>rah.sample</groupId>
+    <artifactId>JavaAsynchExample</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
 
     <properties>
         <java.version>1.8</java.version>
